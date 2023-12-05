@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Список продуктов</string>
+    <string name="add">Добавить</string>
+    <string name="clear">Удалить Всё</string>
+    <string name="product">Товар</string>
+    <string name="productsList">Cписок продуктов</string>
+    <string name="change">Изменить</string>
+    <string name="remove">Удалить</string>
+</resources>
